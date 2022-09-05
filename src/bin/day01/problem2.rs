@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-fn main() {
+pub fn main() {
     let data = include_str!("input.txt");
 
     let mut frequency = 0;
